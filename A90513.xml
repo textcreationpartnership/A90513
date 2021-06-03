@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A packet of severall letters being intetcepted [sic] and taken on Thursday night last being the 26 of Aprill, which were sent from John Lambert Esq. to many of the phanaticks in the country.</title>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90513</idno><idno type="EEBO-CITATION">99862471</idno>
+  <idno type="VID">114631</idno>
+  <idno type="EEBO-PROQUEST">2240952772</idno>
+  
+            <idno type="STC">Wing P159</idno>
+            <idno type="STC">Thomason E1021_13</idno>
+            <idno type="STC">ESTC R202049</idno>
+            <idno type="PROQUEST">99862471</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99862471e"/>
+            <note>(EEBO-TCP ; phase 2, no. A90513)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114631)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 151:E1021[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A packet of severall letters being intetcepted [sic] and taken on Thursday night last being the 26 of Aprill, which were sent from John Lambert Esq. to many of the phanaticks in the country.</title>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for John Morgan,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A satire on Lambert.</note>
+                  <note>Annotation on Thomason copy: "April 27".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Lambert, John, 1619-1683 --  Humor --  Early works to 1800.</term>
+               <term type="topical_term">Political satire, English --  17th Century.</term>
+               <term type="geographic_name">Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114631:1"/>
+            <p>A PACKET OF SEVERALL LETTERS Being intetcepetd and taken on <hi>Thurs<g ref="char:EOLhyphen"/>day</hi> night last being the 26 of <hi>Aprill,</hi> Which were sent from John Lambert Esq.</p>
+            <p>To many of the Phanaticks in the Country.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for John Morgan, 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:114631:2"/>
+            <pb n="1" facs="tcp:114631:2"/>
+            <head>A Packet of the Phanaticks Letters INTERCEPTED,</head>
+            <p>
+               <hi>THe Phrantick Sectary being now stark mad, and in a high Feavour; the effect of his old surfet of blood, and Treasure is strugling and gasping for life: And these Papers exposited now to publick view, present you with all the Art and skill imaginable. His best Physicians,</hi> Vane, Hasilrigge, Whitlock, Lambert, &amp;c. <hi>hard try<g ref="char:EOLhyphen"/>ed to preserve him; The Patient talkes idlely and mis<g ref="char:EOLhyphen"/>chievously, but the Docters speak senciously and d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>v<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sh<g ref="char:EOLhyphen"/>ly. Take the first Epistle of</hi> Sr. Henry Vane <hi>to his be<g ref="char:EOLhyphen"/>loved.</hi>
+            </p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>MY LORD.</salute>
+                  </opener>
+                  <p>SInce Providence is weary of our old claim to her, while she did glorious things for us, 'Twill be now I think our most generous course to dis<g ref="char:EOLhyphen"/>clay me, and renounce her, and put all to an Atheisti<g ref="char:EOLhyphen"/>call venture, and try if we can court the Devil with A<g ref="char:EOLhyphen"/>nabaptisticall holy water, avowedly to side with us, and finish the work we begun in the name of <hi>J</hi>—When we have now nothing to do with. Indeed I could have wisht we had done it sooner, for our old preten<g ref="char:EOLhyphen"/>ces were too state and palpable, and nothing could be more unfashionable to my late Model then zeal or san<g ref="char:EOLhyphen"/>ctity, since nothing introduces slavery sooner then Ir<g ref="char:EOLhyphen"/>religion. I had <hi>Achitophels</hi> reward, not to be credi<g ref="char:EOLhyphen"/>ted by <hi>Absolon: Lambert,</hi> when I advised him to se<g ref="char:EOLhyphen"/>cure
+<pb n="2" facs="tcp:114631:3"/> himself of <hi>London,</hi> and the Concubines there, but it had not been his own hard fortune before, that made him so tender hearted to the City. It's true that Counsell was followed too late by the RUMP, and sell out as mischievously as the wicked Cavaliers could wish or think, for that was the bane, the very break<g ref="char:EOLhyphen"/>neck of our usurpation, and I could curse Sir <hi>Arthur's</hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ury faster then ever our Priests cursed <hi>Meros</hi> or dam<g ref="char:EOLhyphen"/>ned himself with the Covenant, but that theres no spare time for that nor prayer: I am now my Lord betaking my self to my Cornucing circles, for since my con<g ref="char:EOLhyphen"/>sinement I have been a great proficient in Magick, and have kept within the Verge, now for fear of the <hi>Rump</hi> but Old <hi>Nich</hi> on whom I cannot yet safely presume.</p>
+                  <p>At my last converse with my Familiar, I demanded of him concerning my Brother <hi>Lambert,</hi> and I import it to you as an infernall secret, he will certainly escape out of the Tower before this comes to your hands, who ever sticks in the mire for him, and therefore my Lord, I would have you prepared, and ready to fasten upon all occasions, his liberty will present to you wee have no hands but his that can lift us into the saddle, but I cannot assure you whether he use not his legs and betake himself to his heels and save his head, instead of minding a Crown. However good my Lord be not idle during the time the Councell is at a losse concer<g ref="char:EOLhyphen"/>ning him, for a small busling will presently embroil our party, that are as desperate as we can wish them. Had I courage my self I would do any thing, if you have no more, we are undone. I received an expresse thing from <hi>Cardinal Mazarine,</hi> which I send you here inclo<g ref="char:EOLhyphen"/>sed, that you may see if we forsake not our selves, we
+<pb n="3" facs="tcp:114631:3"/> shall not want of pernicious Counsell from abroad, this is the true Copy of it.</p>
+               </body>
+            </floatingText>
+         </div>
+         <div type="letter">
+            <head>A Letter from <hi>John Lambert Esq.</hi> to <hi>Sr. Henry Vane,</hi> intercepted.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Cannot tell to whom your late miscarriages are justly imputable, but I assure you they carry an ill aspect, if not worse influence upon my management of affairs▪ as if I had slipt the greatest advantage thia Crown (since the peace) could have acquested. My great design against the Protestant Churches sound not now so gloriously, and dwindles in the Expectation, for they are now like not onely to find a defendor of the Faith, and Assertor of their Religion in <hi>England,</hi> but also the French may in a short time feel him a potent and dan<g ref="char:EOLhyphen"/>gerous neighbour, and one that threatens that securi<g ref="char:EOLhyphen"/>ty and greatness, which my endeavour and Counsells have promised them. Sir I would contribute my ut<g ref="char:EOLhyphen"/>most abilities to return you to the <hi>Chaos</hi> you were in, (though I fear the resplendent Lustre of a Prince is mounted too high) but you your selv<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> have exceeded all History, na<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> imagination, and I cannot direct any thing absolutely feasible: what think you of the <hi>Pa<g ref="char:EOLhyphen"/>risian</hi>
+               <pb n="4" facs="tcp:114631:4"/> Massacre? this I do but hint unto you, but I'le assure you what ever you can do for your selves, shall be powerfully seconded and assisted by your faithfull friend,</p>
+            <closer>
+               <signed>J. L.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>A Letter from Col. <hi>Hewson</hi> to my Lord <hi>Fleetwood.</hi>
+            </head>
+            <opener>
+               <salute>MY LORD!</salute>
+            </opener>
+            <p>SInce my flight from <hi>Wallingford</hi> House, I have by the benesit of my trade like a Jesuit, had ac<g ref="char:EOLhyphen"/>cesse every where, and <hi>I</hi> find the folks mad for a King, my lurry is come, when he will I shall be but a Cobler still, and I passe under that true dignity; where I am now, there's a company of strange fellows that talk of twenty years revolutions, and that all things in that space return to the first state, I thought it entrench'd upon my Lordships Honour, and offer<g ref="char:EOLhyphen"/>ing to quarrell they have beat my other eye out: if you have wept both yours out, youl be good compa<g ref="char:EOLhyphen"/>ny for me, for here's a Phanatick Constable will pro<g ref="char:EOLhyphen"/>cure a brief for any two of us, I have a pair of strong shoos that will keep us from backsliding any more, but I doubt they will not from neck breaking, and I have a fine Dog and a Bell to ring the tune of the Lurhan respects, I expect a word of exhortation from your Lordship and remain</p>
+            <closer>
+               <signed>Vampington Shoon the Last. your Honours Tumble down Servant</signed>
+               <signed>Hewson.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="5" facs="tcp:114631:4"/>
+            <head>A Letter from Master <hi>Walton</hi> to <hi>Arthur Haselrigg</hi> Junior Esq.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>HAving tryed all means to procure satisfacti<g ref="char:EOLhyphen"/>on from your brother in law <hi>Richard Crom<g ref="char:EOLhyphen"/>well</hi> for his Fathers Funerals which I trusted him, and finding it to be a desperate debt, unless I can make a speciall friend. I have presumed to request your favourable assistance, really sir, you would pity me to think that such a proper Gentleman, whom <hi>Pauls</hi> Church yrad could not compare, should now go a wool-gathering with a license to question every one in bla<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>k (like the Burr in the Fable) for my cloth, and adde to all to be in danger of a Dungeon, if the undone Clothier lay hold on me. Sir you have laid field to field, Bishops Lands to Crown Lands, and yet if the times hold on you are like to be on the wrong side of the hedge, and therefore let humane condition move you to consideration of my case. My brother in law <hi>Pride</hi> is disbanded, and the ambition of all our friends withered, and as beggarly already as they were at the beginning, let us now move Heaven and Earth rather the sink under the load of our Dunghill fortunes; and as you tender your rotten Lady leave <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er not to the violent hands of the rude Cavaliers. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>his is all at present, from</p>
+            <closer>
+               <salute>Sir</salute>
+               <signed> your humble serant.</signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
